@@ -19,4 +19,4 @@
 
 
 * [**Catatan**](catatan.md)
-* [**Galeri Gamba**](image.md)
+* [**Galeri Gambar**](image.md)
